@@ -2,4 +2,4 @@
 
 this is my first repository
 
-beer is good
+beer is good, beer is great
